@@ -1,8 +1,8 @@
 ## 👋  Hi there, I'm [wikix](https://wikix.github.io)
 
-* Years of development experience with Go & Kubernetes & Linux.
+* Years of development experience with Go & Kubernetes & Linux (with Litte React).
 * Open source maniac, projects include : [kubernetes](https://github.com/kubernetes/kubernetes), [ant-design-pro](https://github.com/ant-design/ant-design-pro)
-* Currently working on [mosn](http://github.com/mosn/mosn).
+* Currently working on [kubernetes](https://github.com/kubernetes/kubernetes).
 
 
 <!--BGN_SECTION:github-readme-stats-->
