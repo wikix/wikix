@@ -7,10 +7,10 @@
 
 <!--BGN_SECTION:github-readme-stats-->
 <a href="https://exp-blog.com" target="_blank">
-  <img height="240" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikix&hide=HTML,CSS,TSQL" alt="wikix's Top Langs" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikix&hide=HTML,CSS,TSQL" alt="wikix's Top Langs" />
 </a>
 <a href="https://exp-blog.com" target="_blank">
-  <img height="240" align="center" src="https://github-readme-stats.vercel.app/api?username=wikix&count_private=true&show_icons=true" alt="wikix's github stats" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=wikix&count_private=true&show_icons=true" alt="wikix's github stats" />
 </a>
 <!--END_SECTION:github-readme-stats-->
 
