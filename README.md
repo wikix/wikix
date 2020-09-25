@@ -9,8 +9,8 @@
 
 ### 👨‍💻  I'm a developer from China, and this is the place where I opensource my stuff.
 <!--BGN_SECTION:introduction-->
-- 🐾 I’m currently working on [VSCode](https://code.visualstudio.com/).
-- ✨ I’m currently rebuilding my [Blog Site](https://github.com/lyy289065406/hexo-blog).
+- 🐾 I’m currently working on [H-I-K-VISION-shit-company].
+- ✨ I’m currently rebuilding my [Blog Site](https://github.com/wikix/wikix.github.io).
 - 🎓 I’m currently studying [K8S](https://github.com/kubernetes/kubernetes), [Golang](https://developer.github.com/v4/).
 - 💬 Ask me about anything [here](https://github.com/wikix/wikix/issues).
 <!--BGN_SECTION:introduction-->
@@ -20,10 +20,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    16 hrs    ooooooooooooooxxxxxx    25.27%
-Learning       26 hrs    ooooooxxxxxxxxxxxxxx    59.97%
+Programming    16 hrs    ooooooxxxxxxxxxxxxxx    25.27%
+Studying       26 hrs    oooooooooooxxxxxxxxx    59.97%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    08.08%
-Fitness        08 hrs    ooxxxxxxxxxxxxxxxxxx    14.69%
+Fitness        08 hrs    ooooooxxxxxxxxxxxxxx    14.69%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -33,9 +33,7 @@ Fitness        08 hrs    ooxxxxxxxxxxxxxxxxxx    14.69%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 789 | 2020-09-24 12:31:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 78 | 2020-09-24 10:50:33  |
-| [articles](https://github.com/lyy289065406/articles) | 70 | 2020-09-24 10:30:36  |
+| TODO | TODO | TODO |
 <!-- END_SECTION:activity -->
 
 
@@ -44,7 +42,7 @@ Fitness        08 hrs    ooxxxxxxxxxxxxxxxxxx    14.69%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-|TODO| TODO| TODO
+| TODO | TODO | TODO |
 <!-- END_SECTION:article -->
 
 
