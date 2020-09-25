@@ -5,14 +5,12 @@
 * Currently working on [mosn](http://github.com/mosn/mosn).
 
 
-[![wikix's github stats](https://github-readme-stats.vercel.app/api?username=wikix)](https://github.com/wikix)
-
 <!--BGN_SECTION:github-readme-stats-->
 <a href="https://exp-blog.com" target="_blank">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikix&hide=HTML,CSS,TSQL" alt="wikix's Top Langs" />
+  <img height="240" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikix&hide=HTML,CSS,TSQL" alt="wikix's Top Langs" />
 </a>
 <a href="https://exp-blog.com" target="_blank">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=wikix&count_private=true&show_icons=true" alt="wikix's github stats" />
+  <img height="240" align="center" src="https://github-readme-stats.vercel.app/api?username=wikix&count_private=true&show_icons=true" alt="wikix's github stats" />
 </a>
 <!--END_SECTION:github-readme-stats-->
 
@@ -55,8 +53,6 @@ Fitness        08 hrs    ooooooxxxxxxxxxxxxxx    14.69%
 | TODO | TODO | TODO |
 <!-- END_SECTION:article -->
 
-
-<a align="right" href="https://github.com/lyy289065406/lyy289065406/blob/master/How_this_works.md">How this works</a>
 
 <!-- -------------------------------------- -->
 <!-- more emoji : http://emojihomepage.com/ -->
