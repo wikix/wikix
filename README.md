@@ -4,7 +4,17 @@
 * Open source maniac, projects include : [kubernetes](https://github.com/kubernetes/kubernetes), [ant-design-pro](https://github.com/ant-design/ant-design-pro)
 * Currently working on [mosn](http://github.com/mosn/mosn).
 
+
 [![wikix's github stats](https://github-readme-stats.vercel.app/api?username=wikix)](https://github.com/wikix)
+
+<!--BGN_SECTION:github-readme-stats-->
+<a href="https://exp-blog.com" target="_blank">
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikix&hide=HTML,CSS,TSQL&theme=great-gatsby" alt="EXP's Top Langs" />
+</a>
+<a href="https://exp-blog.com" target="_blank">
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=wikix&count_private=true&show_icons=true&theme=nightowl" alt="EXP's github stats" />
+</a>
+<!--END_SECTION:github-readme-stats-->
 
 
 ### 👨‍💻  I'm a developer from China, and this is the place where I opensource my stuff.
