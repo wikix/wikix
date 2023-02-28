@@ -17,7 +17,7 @@
 
 ### 👨‍💻  I'm a developer from China, and this is the place where I opensource my stuff.
 <!--BGN_SECTION:introduction-->
-- 🐾 I’m currently working on [HIK-VISION-of-shit-company].
+- 🐾 I’m currently working on [Bytedance Tiktok Game Live].
 - ✨ I’m currently rebuilding my [Blog Site](https://github.com/wikix/wikix.github.io).
 - 🎓 I’m currently studying [K8S](https://github.com/kubernetes/kubernetes), [Golang](https://developer.github.com/v4/).
 - 💬 Ask me about anything [here](https://github.com/wikix/wikix/issues).
